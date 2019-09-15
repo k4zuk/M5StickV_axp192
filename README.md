@@ -4,4 +4,4 @@ M5StickV‚Ì“dŒ¹IC(axp192)ŠÇ—‰º‚Ì“dˆ³,“d—¬’l“™‚ğ•\¦‚µ‚Ü‚·B‰½‚Ìü‚è‹C‚à‚È‚¢‚Å‚·
 
 [pmuƒpƒbƒP[ƒW(Œö®)](https://github.com/sipeed/MaixPy/blob/master/projects/maixpy_m5stickv/builtin_py/pmu.py)
 
-![display.jpg](https://github.com/k4zuk/M5StickV_PMU/raw/master/display.jpg)
+![display.jpg](https://github.com/k4zuk/M5StickV_axp192/blob/master/display.jpg)
